@@ -29,6 +29,15 @@ Research → Analyze → Exploit → Understand → Secure
 ---
 
 ### 🛡️ Security Research
+## Security Research
+
+Authorized vulnerability research on open-source projects — found and
+responsibly disclosed via GitHub's Private Vulnerability Reporting.
+
+**TandoorRecipes/recipes:**
+- [GHSA-p6v2-4p2w-464j](https://github.com/TandoorRecipes/recipes/security/advisories/GHSA-p6v2-4p2w-464j) — OAuth scope bypass, CVSS 4.3 — *fixed, CVE pending*
+- [GHSA-39h5-jv66-84p5](https://github.com/TandoorRecipes/recipes/security/advisories/GHSA-39h5-jv66-84p5) — OAuth scope bypass, CVSS 5.4 — *fixed, CVE pending*
+- [GHSA-mhp5-f6m6-66qx](https://github.com/TandoorRecipes/recipes/security/advisories/GHSA-mhp5-f6m6-66qx) — Cross-Space authorization bypass, CVSS 5.0 — *fixed, CVE pending*
 
 <p align="left">
   <img src="https://img.shields.io/badge/Web%20Security-111111?style=for-the-badge&logo=owasp&logoColor=c8ff00" alt="Web Security" />
